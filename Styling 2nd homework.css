@@ -1,0 +1,43 @@
+div{
+    font-family: 'Roboto', sans-serif;
+    margin: 30px;
+    padding: 20px;
+    border: 10px solid rgba(166, 202, 193, 0.747);
+    background: rgb(238, 238, 238, 0.747);
+    size: 0.5rem;
+float: left;
+width: auto;
+}
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    margin: 30px;
+    padding: 20px;
+    border: 10px solid rgba(166, 202, 193, 0.747);
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(166,202,193,1) 35%, rgba(202,216,211,1) 100%);
+    size: 0.5rem;
+    text-align: center;
+    color:  rgba(238, 238, 238, 0.747);
+ 
+}
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    margin: 30px;
+    padding: 20px;
+    border: 10px solid rgba(166, 202, 193, 0.747);
+    background: rgb(238, 238, 238, 0.747);
+    size: 0.5rem;
+    text-align: center;
+    color:  rgba(121, 158, 149, 0.747);
+}
+
+img{
+    size: 0.5em;
+        opacity: 1;
+        display: block;
+        transition: .5s ease;
+        backface-visibility: hidden;
+
+}
